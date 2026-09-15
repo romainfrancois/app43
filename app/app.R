@@ -8,7 +8,7 @@ thematic_shiny(font = "auto")
 ui <- page_fluid(
   theme = bs_theme(version = 5),
   input_dark_mode(mode = "light"),
-  titlePanel("SVM Demo"),
+  titlePanel("SVM Demo 2"),
   sidebarLayout(
     sidebarPanel(
       selectInput(
