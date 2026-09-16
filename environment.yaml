@@ -10,3 +10,5 @@ dependencies:
   - r-bslib
   - r-e1071
   - r-thematic
+  - r-reticulate
+  - python
